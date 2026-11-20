@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+recoverai.db
+backend/uploads/
+backend/models/*.joblib
+.pytest_cache/
